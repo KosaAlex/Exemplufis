@@ -15,11 +15,11 @@
 
     <Label text="Full name:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
 
-    <TextField id="fullName" fx:id="fullNameField" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+    <TextField fx:id="fullNameField" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
 
     <Label text="Phone number:" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
 
-    <TextField id="phoneNumber" fx:id="phoneNumberField" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+    <TextField fx:id="phoneNumberField" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
 
     <Label text="Username:" GridPane.columnIndex="0" GridPane.rowIndex="3"/>
 
